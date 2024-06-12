@@ -15,8 +15,8 @@ Technologies Used:- NodeJS, Express, React, Redux, MongoDB (mongoose), Styled-Co
 Material-UI, GSAP (animations), PayPal SDK, JWT (auth), Axios
 
 Development Credits:-
-• Frontend - Prabodya Rajapaksha and Amila Madhusankha
-• Backend - Avishka Kothalawala and Amila Madhusankha
+• Frontend - @prabodya99 and @madhusankha90
+• Backend - Avishka Kothalawala and @madhusankha90
 
 Setup
 To run this project, install both server and client dependencies using npm:-
