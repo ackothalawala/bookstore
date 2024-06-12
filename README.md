@@ -1,3 +1,6 @@
+![bookstore](client/public/icons/open-book.png)
+
+
 Our online bookstore is a full-featured web application developed using MERN technologies, offering 
 a seamless and comprehensive platform for book enthusiasts. Users can sign up, log in, and search 
 for books or authors effortlessly. The website features a dynamic book cart allowing customers to 
@@ -21,4 +24,4 @@ $ npm install
 $ cd client
 $ npm install
 Using concurrently you can run both express server and CRA server at the same time:-
-$ npm run de
+$ npm run dev
