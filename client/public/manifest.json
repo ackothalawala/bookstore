@@ -1,12 +1,12 @@
 {
-  "short_name": "bookstore",
-  "name": "bookstore | Buy Books Online",
+  "short_name": "Book Attic",
+  "name": "Book Attic | Buy Books Online",
   "icons": [
     {
       "src": "/icons/open-book.png",
       "type": "image/png",
       "sizes": "512x512"
-    }  
+    }
   ],
   "start_url": ".",
   "display": "standalone",

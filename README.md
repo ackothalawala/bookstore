@@ -1,27 +1,41 @@
-![bookstore](client/public/icons/open-book.png)
+# bookstore is an online bookstore made using the MERN stack.
 
 
-Our online bookstore is a full-featured web application developed using MERN technologies, offering 
-a seamless and comprehensive platform for book enthusiasts. Users can sign up, log in, and search 
-for books or authors effortlessly. The website features a dynamic book cart allowing customers to 
-select their desired books and place orders directly through the site. With a robust review and rating 
-system, users can share their thoughts and rate books, enhancing the community-driven experience.
+## Table of contents
+* [General info](#general-info)
+* [Technologies](#technologies)
+* [Setup](#setup)
 
-The bookstore categorizes its extensive collection into various genres including "Fiction, Children, 
-Novels, Translations, Short Story, Educational, Biography, and Poetry" ensuring a wide array of 
-options for all readers. While it does not support online book reading, it excels in providing a user friendly interface and efficient navigation for purchasing books.
+## General info
+This project is our full-stack application. Node was the technology of choice here for the backend which further improved my understanding of JS.
+This is a full fledged e-commerce site for books. People can create an account and look at all their orders.
+This also has admin features built-in which can be accessed by signing in with an admin account. An Admin can add, edit or remove books and can also access a list of all orders.
+	
+## Technologies
 
-Technologies Used:- NodeJS, Express, React, Redux, MongoDB (mongoose), Styled-Components, 
-Material-UI, GSAP (animations), PayPal SDK, JWT (auth), Axios
+* NodeJs
+* Express
+* React
+* Redux
+* MongoDB (mongoose)
+* Styled-Components
+* Material-UI
+* GSAP (animations)
+* PayPal SDK
+* JWT (auth)
+* Axios
+	
+## Setup
+To run this project, install both server and client dependencies using npm:
 
-Development Credits:-
-• Frontend - @prabodya99 and @madhusankha90
-• Backend - Avishka Kothalawala and @madhusankha90
-
-Setup
-To run this project, install both server and client dependencies using npm:-
+```
 $ npm install
 $ cd client
 $ npm install
-Using concurrently you can run both express server and CRA server at the same time:-
+```
+
+Using concurrently you can run both express server and CRA server at the same time:
+
+```
 $ npm run dev
+```
